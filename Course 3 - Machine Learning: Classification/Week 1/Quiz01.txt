@@ -1,0 +1,12 @@
+
+1. False. X
+2. True.
+3. Logistic Function.
+4. Can’t say anything about P(y = +1 | x). X
+5. 10.
+
+1. True.
+2. True.
+3. Logistic Function.
+4. P(y = +1 | x) > 0.5.
+5. 10.
