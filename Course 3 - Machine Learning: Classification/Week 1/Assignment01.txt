@@ -1,0 +1,16 @@
+
+1. I confirm that I am using the right version of GraphLab Create and the right IPython notebook.
+2. 68419.
+3. Third.
+4. - Britax Decathlon Convertible Car Seat, Tiffany.
+5. - The First Years True Choice P400 Premium Digital Monitor, 2 Parent Unit.
+   - Peg-Perego Tatamia High Chair, White Latte.
+   - Safety 1st High-Def Digital Monitor.
+6. 0.91.
+7. No, higher accuracy on training data does not necessarily imply that the classifier is better.
+8. 10.
+9. Yes.
+10. Sentiment_model.
+11. Sentiment_model.
+12. 0.84.
+13. Yes.

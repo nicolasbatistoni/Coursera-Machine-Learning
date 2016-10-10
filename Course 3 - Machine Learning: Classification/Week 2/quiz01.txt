@@ -1,0 +1,32 @@
+
+1. (True/False) A linear classifier can only learn positive coefficients.
+FALSE.
+
+2. (True/False) In order to train a logistic regression model, we find the weights that maximize the likelihood of the model.
+TRUE.
+
+3. (True/False) The data likelihood is the product of the probability of the inputs x given the weights w and response y.
+FALSE.
+
+4. Calculate the likelihood of this data.
+1/(1+e^-2.5) * (1-1/(1+e^-0.3) * 1/(1+e^-2.8) * 1/(1+e^-0.5) = 0.61 X
+
+5. Calculate the derivative of the log likelihood with respect to w1.
+2.5*(1 - 1/(1+e^-2.5)) + 0.3*(0 - (1-1/(1+e^-0.3)) + 2.8*(1 - 1/(1+e^-2.8)) + 0.5*(1 - 1/(1+e^-0.5)) = 0.16 X
+
+6. Which of the following is true about gradient ascent? Select all that apply.
+- It is an iterative algorithm.
+- It finds the maximum by “hill climbing”.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+4. 
+1/(1+e^-2.5) * (1-1/(1+e^-0.3)) * 1/(1+e^-2.8) * 1/(1+e^-0.5) = 0.23
+
+5.
+2.5*(1 - 1/(1+e^-2.5)) + 0.3*(0 - (1-1/(1+e^-0.3))) + 2.8*(1 - 1/(1+e^-2.8)) + 0.5*(1 - 1/(1+e^-0.5)) = 0.41 X
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+5.
+2.5*(1 - 1/(1+e^-2.5)) + 0.3*(0 - 1/(1+e^-0.3)) + 2.8*(1 - 1/(1+e^-2.8)) + 0.5*(1 - 1/(1+e^-0.5)) = 0.36
