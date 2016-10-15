@@ -1,0 +1,80 @@
+
+1. Which of the four classifiers is most likely overfit?
+
+= Classifier 1.
+
+
+2. Suppose a classifier classifies 23100 examples correctly and 1900 examples incorrectly.
+Compute accuracy by hand. Round your answer to 3 decimal places.
+
+= 0.924.
+
+
+3. (True/False) Accuracy and error measured on the same dataset always sum to 1.
+
+= True.
+
+
+4. Which of the following is NOT a correct description of complex models?
+
+= Complex models accommodate many features.
+X
+
+
+5. Which of the following is a symptom of overfitting in the context of logistic regression? Select all that apply.
+
+= Large estimated coefficients.
+= Complex decision boundary.
+= Overconfident predictions of class probabilities.
+
+
+6. Suppose we perform L2 regularized logistic regression to fit a sentiment classifier. 
+Which of the following plots does NOT describe a possible coefficient path? Choose all that apply.
+
+= 2, 3, 4.
+X
+
+
+7. Suppose we perform L1 regularized logistic regression to fit a sentiment classifier. 
+Which of the following plots does NOT describe a possible coefficient path? Choose all that apply.
+
+= 3, 4.
+X
+
+
+8. In the context of L2 regularized logistic regression, which of the following occurs as we increase the L2 penalty λ?
+Choose all that apply.
+
+= The L2 norm of the set of coefficients gets smaller.
+= Decision boundary becomes less complex.
+= The classifier has lower variance.
+
+
+=====================================================================================================================================
+
+
+4. Which of the following is NOT a correct description of complex models?
+
+= Complex models tend to generalize better than simple models.
+
+
+6. Suppose we perform L2 regularized logistic regression to fit a sentiment classifier. 
+Which of the following plots does NOT describe a possible coefficient path? Choose all that apply.
+
+= 3, 4.
+
+
+7. Suppose we perform L1 regularized logistic regression to fit a sentiment classifier. 
+Which of the following plots does NOT describe a possible coefficient path? Choose all that apply.
+
+= 4. X
+
+
+=====================================================================================================================================
+
+
+7. Suppose we perform L1 regularized logistic regression to fit a sentiment classifier. 
+Which of the following plots does NOT describe a possible coefficient path? Choose all that apply.
+
+= 1, 4.
+
