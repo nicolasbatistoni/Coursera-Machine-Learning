@@ -1,21 +1,21 @@
-1. 
+1. x3
 
-2. 
+2. 0
 
-3. 
+3. 3
 
-4. 
+4. 2
 
-5. 
+5. 0
 
-6. 
+6. T2
 
-7. 
+7. X2
 
-8. 
+8. The split could be the same or could be different.
 
-9. 
+9. Too little information to guarantee anything.
 
-10. 
+10. Split using thresholds (e.g., income < 60k or income >= 60k).
 
-11.
+11. False.
