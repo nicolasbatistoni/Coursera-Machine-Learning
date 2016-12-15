@@ -1,0 +1,15 @@
+
+1. 36 months.
+
+2. grade.D.
+
+3. grade.D.
+
+4. 0.38.
+
+5. 0.38.
+
+6. term. 36 months, grade.A, grade.B.
+
+7. term. 36 months, grade.D, no third feature 
+   because second split resulted in leaf.
