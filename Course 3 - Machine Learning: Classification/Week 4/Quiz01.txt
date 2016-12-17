@@ -1,0 +1,47 @@
+
+1. False.
+
+X 2. False.
+
+X 3. True.
+
+4. Model complexity increases with depth.
+
+5. combat overfitting.
+
+X 6. Stop when the tree hits a certain depth.
+
+X 7. The number of nodes in T2 >= the number of nodes in T1,
+   The test error of T2 <= the test error of T1.
+
+8. 0.25.
+
+X 9. 0.75.
+
+X 10. 0.50.
+
+X 11. Split.
+
+==========================================================================
+
+1. False.
+
+2. True.
+
+3. False.
+
+4. Model complexity increase with depth.
+
+5. combat overfitting.
+
+6. stop when every spliy, same error reduction.
+
+7. 1, 2, 4.
+
+8. 0.25.
+
+9. 0.25.
+
+10. 0.25.
+
+11. Stop early.
