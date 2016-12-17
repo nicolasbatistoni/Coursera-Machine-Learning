@@ -1,0 +1,32 @@
+
+1. Create a leaf and return it.
+
+2. Create a leaf and return it.
+
+3. Shorter.
+
+4. Shorter or the same.
+
+X 5. 5.
+
+6. Lower than.
+
+7. model_3.
+
+8. Yes.
+
+9. No, this is NOT ALWAYS true.
+
+10. model_3.
+
+11. No, this is not always true.
+
+12. model_4.
+
+13. Pick model_5 over model_4.
+
+14. model_8.
+
+=================================================================
+
+5. 6.
