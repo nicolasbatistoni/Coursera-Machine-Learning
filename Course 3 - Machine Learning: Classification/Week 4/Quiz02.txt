@@ -1,0 +1,20 @@
+
+1. False.
+
+2. - So many features are skipped that accuracy can degrade.
+   - If an input at prediction time has a feature missing 
+     that was always present during training, this approach 
+     is not applicable.
+
+3. False.
+
+4. N.
+
+5. D.
+
+6. - Imputed values can be used in any classification algorithm.
+   - Imputed values can be used when there is missing data at prediction time.
+
+7. We choose to assign missing values to the branch of the tree (either 
+   the one with feature value equal to 0 or with feature value equal to 1) 
+   that minimizes classification error.
