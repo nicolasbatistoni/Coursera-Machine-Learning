@@ -1,0 +1,10 @@
+
+1. WM(α,ŷ) = N * [classification error].
+
+2. Yes.
+
+3. Neither.
+
+4. Training error goes down in general, with some ups and downs in the middle.
+
+5. No.
