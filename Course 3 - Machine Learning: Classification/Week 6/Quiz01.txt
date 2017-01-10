@@ -1,0 +1,18 @@
+
+1. 0.99.
+
+2. True.
+
+3. True.
+
+4. 3.
+
+5. It is optimistic.
+
+6. Require higher confidence level for positive predictions.
+
+7. Require lower confidence level for positive predictions.
+
+8. Recall.
+
+9. 2.20.
