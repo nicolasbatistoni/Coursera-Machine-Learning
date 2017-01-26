@@ -1,0 +1,22 @@
+
+1. True.
+
+2. True.
+
+3. False.
+
+4. Decrease step size.
+
+5. Increase step size.
+
+6. 180000.
+
+X 7. - 3.
+   - 5.
+
+8. 1.
+
+9. - Log likelihood of data improves monotonically.
+   - Stochastic gradient ascent is highly robust with respect to parameter choices.
+
+10. 1540.
