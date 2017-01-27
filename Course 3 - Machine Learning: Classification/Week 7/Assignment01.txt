@@ -1,0 +1,24 @@
+
+1. Stays the same.
+
+2. II_A(w) = (1/N)*II(w)
+
+3. A scalar.
+
+4. A scalar.
+
+5. 47780.
+
+6. 47780.
+
+7. Fluctuates.
+
+8. Increases.
+
+9. 1000.
+
+10. 150 passes or more.
+
+11. 1e2.
+
+12. 1e0.
