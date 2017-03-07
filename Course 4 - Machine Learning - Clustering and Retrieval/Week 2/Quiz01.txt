@@ -1,0 +1,21 @@
+
+1. B and C.
+
+2. A and B.
+
+3. 
+		[#the, #a, #quick, #brown, #fox, #jumps, #over, #lazy, #dog, #outpaces]
+	x = 	[2   , 0 , 1     , 1     , 1   , 1     , 1    , 1    , 1   , 0        ]
+	y = 	[0   , 2 , 2     , 1     , 1   , 0     , 0    , 0    , 1   , 1        ]
+	|x-y| =	[2   , 2 , 1     , 0     , 0   , 1     , 1    , 1    , 0   , 1        ]
+	|x-y|²= [4   , 4 , 1     , 0     , 0   , 1     , 1    , 1    , 0   , 1        ]
+	==> 	[4   + 4 + 1     + 0     + 0   + 1     + 1    + 1    + 0   + 1        ]
+        = 	13
+	==> 	root(13)
+	= 	3.605
+
+4. 0.564.
+
+5. True.
+
+6. Penalizes words that appear in every document.
