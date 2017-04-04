@@ -1,0 +1,24 @@
+
+1. True.
+
+X 2. False.
+
+X 3. False.
+
+4. False.
+
+5. False.
+
+6. True.
+
+7. False.
+
+8. Data point 2.
+
+9. (1) First Option.
+
+====================================================
+
+2. True.
+
+3. True.
