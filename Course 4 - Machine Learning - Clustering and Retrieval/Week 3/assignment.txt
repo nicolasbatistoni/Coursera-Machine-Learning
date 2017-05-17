@@ -1,0 +1,23 @@
+
+1. 
+
+2. True.
+
+X 3. K-means algorithm got stuck in a bad local minimum.
+X --> Nothing is wrong. The objective should generally go down sooner or later.
+--> There is a bug in the K-means code.
+
+4. Cluster #2.
+
+X 5. 2627.
+X --> 57512.69257
+--> 15779.
+
+6. Cluster 0: artists, actors, film directors, playwrights.
+
+7. Cluster 8: ice hockey players.
+
+X 8. 0.349.
+X --> 0.289.
+X--> 28.9.
+--> 35.
