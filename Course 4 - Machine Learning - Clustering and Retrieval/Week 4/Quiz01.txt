@@ -1,0 +1,21 @@
+
+1. True.
+
+2. True.
+
+3. Estimate cluster responsibilities, Maximize likelihood over parameters.
+
+4. A mixture of Gaussians with 10 component clusters.
+
+5. - EM is better at capturing clusters of different sizes and orientations.
+   - EM is better at capturing clusters with overlaps.
+   - k-means is equivalent to running EM with infinitesimally small diagonal covariances.
+
+6. Cluster A.
+
+7. 4.857.
+
+8. - 3.
+   - 4.
+
+9. 4.
